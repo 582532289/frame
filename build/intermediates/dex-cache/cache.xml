@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42f64455001dfd73860b786f7a0730287a24416f">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed36099383ae95a96b325bffc1c0c1c8ea34795b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_c20a4b568a60eca8a9f16037f2ca3c35ac9b1b63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_96ea39391dfa045514105da08e35f031537e338c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.1.0/7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5/converter-scalars-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-scalars-2.1.0_66b817b30523e1d4e009d1eb6cbb594148821e1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_3cba9ad9585377dd08cd1248940b3df4c04b6606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.14/ebe0a01b96fd0151e9efabcf1b10b3cf37b02a4a/fastjson-1.2.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ebe0a01b96fd0151e9efabcf1b10b3cf37b02a4a">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.2.14_0f7d6ef1cb442e05fac088d9f939f059f2867b07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_351dc57d117bff9443910331c469168cc5079795/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_c9945b90c12baa13ab5b5472a3c730272dbf52ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_ff72651b741522229fb5e7108b4e0ef2cc61cb97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_07db64256bbb69967c16a71ffaa192019ddb0118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_d588d27f4c569f718c077ade5b654921ca183554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_32d1208da490763b911562f2f9b320fd8ce84570/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_652546b34f81269bd0530c3e5c2d7b2456e8aef2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_c4ae39de44838a2c2a14d4aec73581893ed123f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_e9568dcc48ffeebbeaf4e153d97de35b4d469a4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_0c56b936f612bb774b6710380b0aac7e1efe7ee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_cb8eb0dc2a6e1754c9db5d151b92cdda6d04908e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_ce1f93f64506a520af4d90ef25232c80f182b4b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.5.1_f4d3747467d373670615e39f4f617929b636f549/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_fdcf5e9a19d967187e5ada8f62bc15a2bb977648/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_43790e4ff9e2acb6328642526f9fdb58f298d3d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_d904a41b8a7a707d883a9d12ee1bc1a277de7ebc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.5_a1863a582e9d8cb44502d5457167b601ad4da38b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_f07fc5b6e7b4ab3c198a3664e648d4fb54ee54e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_29e6c650b8b2ac937a1137a122636ae8557497fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.5.1_1a32cb158bee6b3fbb903d8d57cde3b4ed1d800a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b5b8f1a86bd99e9f71ab78596314f87858bdedf8">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5ba35057e45091214a12c8ab1c2f050908427718/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuning/Documents/workbase/frame/app/build/intermediates/exploded-aar/com.dou361.retrofit2/jjdxm-retrofit-converter-fastjson/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f135ecd55ed976a5c914bd525e00bfb531ced89">
+        <dex dex="/Users/xuning/Documents/workbase/frame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.dou361.retrofit2-jjdxm-retrofit-converter-fastjson-1.0.0_71b1f1e78b67410ecf709509d09370354830cfff/classes.dex" />
+    </item>
+
+</items>
