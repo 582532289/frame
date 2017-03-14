@@ -47,6 +47,12 @@ public class Back {
             this.data = data;
         }
 
+        @Override
+        public String toString() {
+            return "ResultBean{" +
+                    "data=" + data +
+                    '}';
+        }
     }
 
 

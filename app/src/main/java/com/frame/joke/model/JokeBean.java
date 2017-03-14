@@ -6,8 +6,6 @@ package com.frame.joke.model;
 
 public class JokeBean {
 
-
-
     private String content;
     private String hashId;
     private int unixtime;
@@ -43,5 +41,15 @@ public class JokeBean {
 
     public void setUpdatetime(String updatetime) {
         this.updatetime = updatetime;
+    }
+
+    @Override
+    public String toString() {
+        return "JokeBean{" +
+                "content='" + content + '\'' +
+                ", hashId='" + hashId + '\'' +
+                ", unixtime=" + unixtime +
+                ", updatetime='" + updatetime + '\'' +
+                '}';
     }
 }

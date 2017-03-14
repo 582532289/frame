@@ -1,7 +1,6 @@
 package com.frame.http;
 
 import com.frame.joke.model.Back;
-import com.frame.net.INetServers;
 
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
@@ -26,7 +25,7 @@ public class HttpMethods {
 
     private Retrofit retrofit;
 
-    private INetServers movieService;
+    private HttpServers movieService;
 
     private String TAG = "HttpMethods";
 
@@ -44,7 +43,7 @@ public class HttpMethods {
                 .baseUrl(BASE_URL)
                 .build();
 
-        movieService = retrofit.create(INetServers.class);
+        movieService = retrofit.create(HttpServers.class);
     }
 
 
@@ -60,11 +59,12 @@ public class HttpMethods {
     }
 
 
-    public void getTopMovie(Subscriber<Back> subscriber, Map<String, String> map) {
+    public void getJoker(Map<String, String> map, Subscriber<Back> subscriber) {
         movieService.load(map)
                 .subscribeOn(Schedulers.io())
                 .unsubscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(subscriber);
     }
+
 }

@@ -1,4 +1,4 @@
-package com.frame.net;
+package com.frame.http;
 
 import com.frame.joke.model.Back;
 
@@ -12,7 +12,7 @@ import rx.Observable;
  * Created by xuning on 17/3/2.
  */
 
-public interface INetServers {
+public interface HttpServers {
 
     @GET("/joke/content/list.from")
     Observable<Back> load(@QueryMap Map<String, String> map);
