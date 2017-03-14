@@ -48,4 +48,14 @@ public class Back {
         }
 
     }
+
+
+    @Override
+    public String toString() {
+        return "Back{" +
+                "error_code=" + error_code +
+                ", reason='" + reason + '\'' +
+                ", result=" + result +
+                '}';
+    }
 }
